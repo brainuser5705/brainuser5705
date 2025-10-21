@@ -1,5 +1,3 @@
-### Hello! Some things about me:
+### Hello!
 
-- CS major from RIT
-- repos are mostly some hobby one-off projects
-- check out my website!
+I make projects. Or at least try to.
